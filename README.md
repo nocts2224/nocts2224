@@ -21,7 +21,7 @@
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=nocts2224&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak" />
+ <img height="180em" src="https://streak-stats.demolab.com?user=nocts2224&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
