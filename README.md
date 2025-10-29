@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm LJ</h1>
+<h1 align="center">Hi 👋, I'm Noctzx</h1>
 <h3 align="center">A developer who has a nack of building websites and games</h3>
 
 ---
