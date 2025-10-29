@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Noctzx</h1>
-<h3 align="center">A developer who has a nack of building websites and games</h3>
+<h3 align="center">A newbie developer who has a nack of building websites and games</h3>
 
 ---
 
