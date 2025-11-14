@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Noctzx</h1>
-<h3 align="center">A newbie developer who has a nack of building websites and games</h3>
+<h3 align="center">A newbie developer who has a knack for building websites and games</h3>
 
 ---
 
@@ -15,6 +15,13 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nocts2224&show_icons=true&theme=onedark&hide_border=true#gh-dark-mode-only" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocts2224&layout=compact&theme=onedark&hide_border=true#gh-dark-mode-only" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Pull Requests Accepted from Contributors -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nocts2224&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&custom_title=Pull%20Requests%20Accepted" alt="Pull Requests Accepted" />
 </p>
 
 ---
@@ -44,22 +51,12 @@
 <!-- Contact -->
 ### 📫 Connect with me:
 <p align="center">
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/LJ Lumantas" target="_blank">
+  <a href="https://www.facebook.com/profile/LJ Lumantas" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-
-  <!-- Letterboxd -->
-  <a href="https://letterboxd.com/rmagallanez" target="_blank">
-    <img src="https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
-  </a>
-
-  <!-- Email -->
   <a href="mailto:ljgabrielle2224@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
 </p>
 
 ---
