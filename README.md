@@ -19,13 +19,6 @@
 
 ---
 
-<!-- Merged PRs from Contributors -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Merged%20PRs-from%20contributors-1f6feb?style=for-the-badge&logo=github" alt="Merged PRs from Contributors" />
-</p>
-
----
-
 <!-- GitHub Streak Stats -->
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=nocts2224&theme=onedark&hide_border=true" />
