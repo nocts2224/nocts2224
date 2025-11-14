@@ -19,9 +19,9 @@
 
 ---
 
-<!-- Pull Requests Accepted from Contributors -->
+<!-- Merged PRs from Contributors -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nocts2224&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&custom_title=Pull%20Requests%20Accepted" alt="Pull Requests Accepted" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-from%20contributors-1f6feb?style=for-the-badge&logo=github" alt="Merged PRs from Contributors" />
 </p>
 
 ---
